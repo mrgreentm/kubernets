@@ -7,4 +7,4 @@ metadata:
 spec:
   containers:
     - name: "goserver"
-      image: "mrgreentm/fullcycle-go:latest"
+      image: "mrgreentm/fullcycle-go:v2"
